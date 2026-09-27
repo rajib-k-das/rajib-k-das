@@ -18,4 +18,4 @@ _Projects in progress. Check back soon._
 MBA & MFin, Queen's University (Smith School of Business) · CFA Level II Candidate
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/rajib-das/) · [Portfolio](https://rajib-das-portfolio.netlify.app)
+[LinkedIn](https://www.linkedin.com/in/rajib-das/) · [Portfolio]()
