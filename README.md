@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Rajib Das 👋
 
-<!--
-**rajib-k-das/rajib-k-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Data Analyst · Analytics Engineering · Capital Markets** - Toronto, Canada
 
-Here are some ideas to get you started:
+I turn messy business questions into reliable data models, dashboards, and decision tools.
+My background spans 10+ years in capital markets (equity research, institutional sales)
+and big-tech analytics at Amazon and Pinterest, where I build GTM analytics, BI tooling,
+and ML-driven recommendation workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Toolkit
+**SQL** (Snowflake, Presto, Hive, Redshift) · **Python** (Pandas, NumPy, scikit-learn, XGBoost) ·
+**dbt** · **Airflow** · **Databricks** · **AWS** · **Tableau** · **Power BI** · **QuickSight**
+
+### 📂 Featured Projects
+_Projects in progress. Check back soon._
+
+### 🎓 Credentials
+MBA & MFin, Queen's University (Smith School of Business) · CFA Level II Candidate
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/rajib-das/) · [Portfolio](https://rajibdas.com)
