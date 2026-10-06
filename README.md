@@ -12,7 +12,8 @@ and ML-driven recommendation workflows.
 **dbt** · **Airflow** · **Databricks** · **AWS** · **Tableau** · **Power BI** · **QuickSight**
 
 ### 📂 Featured Projects
-_Projects in progress. Check back soon._
+   - **[Point-in-Time Equity Fundamentals Warehouse](https://github.com/rajib-k-das/point-in-time-fundamentals)** —
+     dbt + DuckDB warehouse modeling SEC financial restatements to eliminate lookahead bias in stock screening. _(In progress)_
 
 ### 🎓 Credentials
 MBA & MFin, Queen's University (Smith School of Business) · CFA Level II Candidate
