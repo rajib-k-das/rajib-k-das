@@ -1,6 +1,6 @@
 # Hi, I'm Rajib Das 👋
 
-**Senior Data Analyst · Analytics Engineering · Capital Markets** - Toronto, Canada
+**Data Analyst · Analytics Engineering · Capital Markets** - Toronto, Canada
 
 I turn messy business questions into reliable data models, dashboards, and decision tools.
 My background spans 10+ years in capital markets (equity research, institutional sales)
