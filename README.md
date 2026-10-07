@@ -19,4 +19,4 @@ and ML-driven recommendation workflows.
 MBA & MFin, Queen's University (Smith School of Business) · CFA Level II Candidate
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/rajib-das/) [GitHub](https://github.com/rajib-k-das/)
+[LinkedIn](https://www.linkedin.com/in/rajib-das/)   [GitHub](https://github.com/rajib-k-das/)
