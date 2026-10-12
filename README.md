@@ -1,18 +1,36 @@
-# Hi, I'm Rajib,
-Data Analyst · Analytics Engineering · Capital Markets - Toronto, Canada<br><br>I turn messy business questions into reliable data models, dashboards, and decision tools. My background spans 10+ years in capital markets (equity research, institutional sales) and big-tech analytics at Amazon and Pinterest, where I build GTM analytics, BI tooling, and ML-driven recommendation workflows.<br><br>🛠️ Toolkit<br>SQL (Snowflake, Presto, Hive, Redshift) · Python (Pandas, NumPy, scikit-learn, XGBoost) · dbt · Airflow · Databricks · AWS · Tableau · Power BI · QuickSight<br><br>📂 Featured Projects<br>Point-in-Time Equity Fundamentals Warehouse — dbt + DuckDB warehouse modeling SEC financial restatements to eliminate lookahead bias in stock screening. (live dashboard ↗)<br>Loan Portfolio Credit Risk Analytics — dbt + DuckDB analytics on 200,000 Freddie Mac mortgages: vintage curves, roll rates, delinquency episodes and a back-tested default forecast (live dashboard ↗)<br>🎓 Credentials<br>MBA & MFin, Queen's University (Smith School of Business) · CFA Level II Candidate<br><br>📫 Connect<br>LinkedIn GitHub
+# Hi, I'm Rajib Das 👋
 
+**Senior Data Analyst · Analytics Engineer · Data Modeler**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajib-das) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajibdassrd@gmail.com) 
+I build analytics warehouses that answer the hard questions correctly: point-in-time history, slowly changing data, and numbers that reconcile.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rajib-k-das&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rajib-k-das&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajib-k-das&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajib-das/)
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/rajib.kumar.das)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajibdassrd@gmail.com)
 
----
-[![](https://komarev.com/ghpvc/?username=rajib-k-das&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🛠️ Toolkit
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+
+### 📂 Featured Projects
+
+- **[Point-in-Time Equity Fundamentals Warehouse](https://github.com/rajib-k-das/point-in-time-fundamentals)** —
+  dbt + DuckDB warehouse modeling SEC financial restatements to eliminate lookahead bias in stock screening
+  ([live dashboard ↗](https://public.tableau.com/app/profile/rajib.kumar.das/viz/Point-in-TimeEquityScreen/Point-in-TimeEquityScreen))
+- **[Loan Portfolio Credit Risk Analytics](https://github.com/rajib-k-das/loan-credit-risk-analytics)** —
+  dbt + DuckDB analytics on 200,000 Freddie Mac mortgages: vintage curves, roll rates, delinquency episodes and a back-tested default forecast
+  ([live dashboard ↗](https://public.tableau.com/app/profile/rajib.kumar.das/viz/MortgageCreditRiskAnalytics/MortgageCreditRisk))
+
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/rajib-das/) · [GitHub](https://github.com/rajib-k-das) · [Tableau Public](https://public.tableau.com/app/profile/rajib.kumar.das)
