@@ -1,6 +1,6 @@
 # Hi, I'm Rajib Das 👋
 
-**Senior Data Analyst · Analytics Engineer · Data Modeler**
+**Data Analyst · Analytics Engineer · Data Modeler**
 
 I build analytics warehouses that answer the hard questions correctly: point-in-time history, slowly changing data, and numbers that reconcile.
 
