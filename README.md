@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Rajib,
 Data Analyst · Analytics Engineering · Capital Markets - Toronto, Canada<br><br>I turn messy business questions into reliable data models, dashboards, and decision tools. My background spans 10+ years in capital markets (equity research, institutional sales) and big-tech analytics at Amazon and Pinterest, where I build GTM analytics, BI tooling, and ML-driven recommendation workflows.<br><br>🛠️ Toolkit<br>SQL (Snowflake, Presto, Hive, Redshift) · Python (Pandas, NumPy, scikit-learn, XGBoost) · dbt · Airflow · Databricks · AWS · Tableau · Power BI · QuickSight<br><br>📂 Featured Projects<br>Point-in-Time Equity Fundamentals Warehouse — dbt + DuckDB warehouse modeling SEC financial restatements to eliminate lookahead bias in stock screening. (live dashboard ↗)<br>Loan Portfolio Credit Risk Analytics — dbt + DuckDB analytics on 200,000 Freddie Mac mortgages: vintage curves, roll rates, delinquency episodes and a back-tested default forecast (live dashboard ↗)<br>🎓 Credentials<br>MBA & MFin, Queen's University (Smith School of Business) · CFA Level II Candidate<br><br>📫 Connect<br>LinkedIn GitHub
 
 
