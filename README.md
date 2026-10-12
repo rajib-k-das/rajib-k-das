@@ -1,6 +1,6 @@
 # Hi, I'm Rajib 👋
 
-**Data Analyst & Analytics Engineer** — building warehouses that answer "what did we know, and when?" correctly.
+**Data Analyst & Analytics Engineer** - building warehouses that answer "what did we know, and when?" correctly.
 
 - 📈 **10+ years in capital markets**: Head of Equity Research and Head of Institutional Sales
 - 🧱 Cut false restatement signals from **29.2% to 1.9%** in a point-in-time SEC fundamentals warehouse
