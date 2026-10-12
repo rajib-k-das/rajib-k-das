@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajib-das/)
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/rajib.kumar.das)
 [![Email](https://img.shields.io/badge/rajibdassrd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajibdassrd@gmail.com)
+[![Follow on GitHub](https://img.shields.io/github/followers/rajib-k-das?label=Follow&style=for-the-badge&logo=github&color=24292e)](https://github.com/rajib-k-das)
 
 ### Tech Stack
 
