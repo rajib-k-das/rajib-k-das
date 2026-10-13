@@ -4,7 +4,7 @@
 
 **Domain:** Tech · Digital Advertising Platforms · Capital Markets
 
-- 💼 **4+ years in data Analytics - Data Analyst at Pinterest (Ex-Amazon)**: Go-to-Market analytics, SQL and dashboards 
+- 💼 **4+ years in data Analytics - Data Analyst at Pinterest (Ex-Amazon)**: Go-to-Market analytics, SQL, Python and dashboards 
 - 📈 **10+ years in capital markets - Head of Equity Research**: Financial Modeling and Investment Research
 - 🧱 Cut false restatement signals from **29.2% to 1.9%** in a point-in-time SEC fundamentals warehouse
 - 🏦 Modeled **200,000 Freddie Mac mortgages**; a back-tested default forecast cut median error from **25.2% to 17.6%**
