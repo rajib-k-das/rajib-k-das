@@ -47,5 +47,6 @@
 |---|---|
 | [point-in-time-fundamentals](https://github.com/rajib-k-das/point-in-time-fundamentals) | dbt + DuckDB warehouse modeling SEC financial restatements to remove lookahead bias in stock screening ([live dashboard](https://public.tableau.com/app/profile/rajib.kumar.das/viz/Point-in-TimeEquityScreen/Point-in-TimeEquityScreen)) |
 | [loan-credit-risk-analytics](https://github.com/rajib-k-das/loan-credit-risk-analytics) | Vintage curves, roll rates, delinquency episodes and a back-tested default forecast on 200,000 Freddie Mac mortgages ([live dashboard](https://public.tableau.com/app/profile/rajib.kumar.das/viz/MortgageCreditRiskAnalytics/MortgageCreditRisk)) |
+| [gtm-revenue-operations-mart](https://github.com/rajib-k-das/gtm-revenue-operations-mart) | Point-in-time B2B pipeline analytics on a synthetic Salesforce-style CRM: SCD2 opportunity history, a pipeline waterfall that reconciles to the cent, forecast accuracy and an ARR bridge ([live dashboard](https://public.tableau.com/app/profile/rajib.kumar.das/viz/B2BPipelineAnalytics/B2BPipelineAnalytics)) |
 
 ![Profile views](https://komarev.com/ghpvc/?username=rajib-k-das&color=blue&style=flat)
